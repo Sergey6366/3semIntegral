@@ -1,7 +1,7 @@
 import numpy as np
 
 
-# COMPUTING the integral of xsin(x) on (a, b) by cuttiong on n equal intervals
+# COMPUTING the integral of xsin(x) on (a, b) by cutting on n equal intervals
 # xsin(x)
 
 def f(x):
